@@ -1,4 +1,4 @@
--- a comment
+--
 create or replace procedure hex_numbers
 as
   digit varchar2(1) := '' ;
